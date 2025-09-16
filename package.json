@@ -1,0 +1,26 @@
+{
+  "name": "firstserverdemo",
+  "version": "1.0.0",
+  "description": "server demo ",
+  "type":"module",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhi21-code/FirstServerdemo.git"
+  },
+  "author": "siddhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddhi21-code/FirstServerdemo/issues"
+  },
+  "homepage": "https://github.com/siddhi21-code/FirstServerdemo#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
